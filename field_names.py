@@ -1,0 +1,30 @@
+#! /usr/bin/env python
+# -*- coding=utf-8 -*-
+
+
+fieldnames = ['mail_path',
+              'From', 'from-name', 'from-address',
+              'To', 'to-name', 'to-address',
+              'CC', 'cc-name', 'cc-address',
+              'BCC', 'bcc-name', 'bcc-address',
+              'Date',
+              'year',
+              'month',
+              'day',
+              'wday',
+              'hour',
+              'minute',
+              'second',
+              'Subject',
+              'Thread-Topic',
+              'subject_abbreviations',
+              'first_abbreviations',
+              're_num',
+              'fw_num',
+              'has-attachment',
+              'attachment_filename',
+              'attachment_file_type',
+              'text/plain',
+              'simplify-content',
+              'signature',
+              ]
